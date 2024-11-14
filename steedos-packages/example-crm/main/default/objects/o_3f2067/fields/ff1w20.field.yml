@@ -1,0 +1,8 @@
+name: ff1w20
+amis:
+  id: 'u:e887bfc85fa2'
+group: 通用
+label: 归属部门
+reference_to: organizations
+sort_no: 250
+type: lookup

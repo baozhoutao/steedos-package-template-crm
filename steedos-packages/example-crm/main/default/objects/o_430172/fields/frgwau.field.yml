@@ -1,0 +1,8 @@
+name: frgwau
+amis:
+  id: 'u:408118ce694a'
+group: 商机基本信息
+label: 销售负责人
+reference_to: users
+sort_no: 650
+type: lookup

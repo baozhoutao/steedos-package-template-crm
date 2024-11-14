@@ -1,0 +1,10 @@
+name: f8sqlc
+amis:
+  id: 'u:a25b446859db'
+group: 成员权限
+is_wide: true
+label: 用户
+reference_to: users
+required: false
+sort_no: 700
+type: lookup

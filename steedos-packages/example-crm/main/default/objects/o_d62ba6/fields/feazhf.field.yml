@@ -1,0 +1,8 @@
+name: feazhf
+amis:
+  id: 'u:5cc19a749bf7'
+group: 联系人基本信息
+label: 选择客户
+reference_to: o_62acdb
+sort_no: 150
+type: lookup

@@ -1,0 +1,10 @@
+name: fn2l1m
+amis:
+  id: 'u:83aba50b1a03'
+  type: input-datetime
+  value: '${NOW()}'
+group: 通用
+label: 跟进时间
+required: true
+sort_no: 500
+type: datetime

@@ -1,0 +1,20 @@
+name: fifbjl
+amis:
+  id: 'u:7c4a9741a3e9'
+group: 通用
+label: 客户状态
+options:
+  - label: 潜在客户
+    value: 潜在客户
+    color: '#4a90e2'
+  - label: 成交客户
+    value: 成交客户
+    color: '#f5a623'
+  - label: 战略合作
+    value: 战略合作
+    color: '#9b9b9b'
+  - label: 无效客户
+    value: 无效客户
+    color: '#417505'
+sort_no: 150
+type: select

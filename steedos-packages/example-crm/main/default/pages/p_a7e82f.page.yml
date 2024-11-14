@@ -1,0 +1,7 @@
+name: p_a7e82f
+is_active: true
+label: 客户分析看板
+pageAssignments: []
+render_engine: amis
+type: app
+widgets: []

@@ -1,0 +1,10 @@
+name: fqmn67
+amis:
+  id: 'u:37764d667361'
+data_type: text
+formula: '${fwi7yz.f3ragx}'
+formula_blank_value: blanks
+group: 线索基本信息
+label: 活动类型
+sort_no: 400
+type: formula

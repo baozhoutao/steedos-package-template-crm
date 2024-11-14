@@ -1,0 +1,32 @@
+name: all
+columns:
+  - field: fk7o42
+  - field: fz8cia
+  - field: f1bvgc
+  - field: f3f9w6
+  - field: fx12ij
+  - field: fqvixk
+  - field: name
+  - field: fxi2wr
+  - field: fx5t0f
+  - field: fpcvt2
+  - field: fri9we
+  - field: fsp40z
+  - field: frgwau
+  - field: fmvhd7
+  - field: fi8p39
+  - field: f9hikt
+  - field: f3aqft
+  - field: faky4l
+  - field: f86grn
+  - field: f3b1f7
+  - field: fl5346
+crud_mode: table
+filter_scope: space
+filters: []
+label: 所有
+mobile_columns: []
+shared_to: space
+sort:
+  - field_name: created
+    order: desc

@@ -1,0 +1,9 @@
+name: fk7o42
+amis:
+  id: 'u:ec8d101be9a0'
+group: 客户信息
+label: 客户
+reference_to: o_62acdb
+required: true
+sort_no: 50
+type: lookup

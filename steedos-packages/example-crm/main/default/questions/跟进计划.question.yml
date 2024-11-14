@@ -1,0 +1,211 @@
+name: 跟进计划
+created_at: 2024-11-13T06:27:20.222Z
+creator_id: 672c72e8e6d7d9069e00f04f
+database_id: 1
+dataset_query:
+  query:
+    source-table: o_3f2067
+    fields:
+      - - field
+        - o_3f2067.name
+        - null
+      - - field
+        - o_3f2067.f4l1uf
+        - null
+      - - field
+        - o_3f2067.fbwst3
+        - null
+      - - field
+        - o_3f2067.fqmg6b
+        - null
+      - - field
+        - o_3f2067.ff1w20
+        - null
+      - - field
+        - o_3f2067.f62n5b
+        - null
+  type: query
+  database: 1
+display: table
+entity_id: 673446c8f1b9cc0621f8b34a
+id: 673446c8f1b9cc0621f8b34a
+parameter_mappings: []
+parameters: []
+query_type: query
+result_metadata:
+  - description: null
+    database_type: java.lang.String
+    semantic_type: type/PK
+    table_id: o_3f2067
+    coercion_strategy: null
+    name: _id
+    fingerprint_version: 0
+    has_field_values: search
+    settings: null
+    caveats: null
+    fk_target_field_id: null
+    dimensions: []
+    dimension_options: []
+    updated_at: '2023-08-04T05:39:33.039939'
+    custom_position: 0
+    effective_type: type/Text
+    active: true
+    nfc_path: null
+    parent_id: null
+    id: o_3f2067._id
+    last_analyzed: null
+    database_is_auto_increment: false
+    position: 0
+    visibility_type: normal
+    default_dimension_option: null
+    target: null
+    preview_display: true
+    display_name: ID
+    database_position: 0
+    database_required: false
+    fingerprint: null
+    created_at: '2023-08-04T05:39:33.039939'
+    base_type: type/Text
+    points_of_interest: null
+  - id: o_3f2067.name
+    name: name
+    display_name: 计划内容
+    base_type: type/Text
+    effective_type: type/Text
+    semantic_type: null
+    field_ref:
+      - field
+      - o_3f2067.name
+      - null
+    source: fields
+    visibility_type: normal
+    table_id: o_3f2067
+  - id: o_3f2067.f4l1uf
+    name: f4l1uf
+    display_name: 跟进客户
+    base_type: type/Text
+    effective_type: type/Text
+    semantic_type: type/FK
+    field_ref:
+      - field
+      - o_3f2067.f4l1uf
+      - null
+    source: fields
+    visibility_type: normal
+    table_id: o_3f2067
+    remapped_to: external_f4l1uf
+  - id: o_3f2067.fbwst3
+    name: fbwst3
+    display_name: 计划时间
+    base_type: type/DateTime
+    effective_type: type/DateTime
+    semantic_type: null
+    field_ref:
+      - field
+      - o_3f2067.fbwst3
+      - null
+    source: fields
+    visibility_type: normal
+    table_id: o_3f2067
+  - id: o_3f2067.fqmg6b
+    name: fqmg6b
+    display_name: 计划执行人
+    base_type: type/Text
+    effective_type: type/Text
+    semantic_type: type/FK
+    field_ref:
+      - field
+      - o_3f2067.fqmg6b
+      - null
+    source: fields
+    visibility_type: normal
+    table_id: o_3f2067
+    remapped_to: external_fqmg6b
+  - id: o_3f2067.ff1w20
+    name: ff1w20
+    display_name: 归属部门
+    base_type: type/Text
+    effective_type: type/Text
+    semantic_type: type/FK
+    field_ref:
+      - field
+      - o_3f2067.ff1w20
+      - null
+    source: fields
+    visibility_type: normal
+    table_id: o_3f2067
+    remapped_to: external_ff1w20
+  - id: o_3f2067.f62n5b
+    name: f62n5b
+    display_name: 计划状态
+    base_type: type/Text
+    effective_type: type/Text
+    semantic_type: null
+    field_ref:
+      - field
+      - o_3f2067.f62n5b
+      - null
+    source: fields
+    visibility_type: normal
+    table_id: o_3f2067
+  - description: null
+    semantic_type: type/Name
+    table_id: o_62acdb
+    coercion_strategy: null
+    name: external_f4l1uf
+    settings: null
+    source: fields
+    remapped_from: f4l1uf
+    fk_field_id: f4l1uf
+    field_ref:
+      - field
+      - o_62acdb.name
+      - source-field: o_3f2067.f4l1uf
+    effective_type: type/Text
+    nfc_path: null
+    parent_id: null
+    id: o_62acdb.name
+    visibility_type: normal
+    display_name: 跟进客户
+  - description: null
+    semantic_type: type/Name
+    table_id: users
+    coercion_strategy: null
+    name: external_fqmg6b
+    settings: null
+    source: fields
+    remapped_from: fqmg6b
+    fk_field_id: fqmg6b
+    field_ref:
+      - field
+      - users.name
+      - source-field: o_3f2067.fqmg6b
+    effective_type: type/Text
+    nfc_path: null
+    parent_id: null
+    id: users.name
+    visibility_type: normal
+    display_name: 计划执行人
+  - description: null
+    semantic_type: type/Name
+    table_id: organizations
+    coercion_strategy: null
+    name: external_ff1w20
+    settings: null
+    source: fields
+    remapped_from: ff1w20
+    fk_field_id: ff1w20
+    field_ref:
+      - field
+      - organizations.name
+      - source-field: o_3f2067.ff1w20
+    effective_type: type/Text
+    nfc_path: null
+    parent_id: null
+    id: organizations.name
+    visibility_type: normal
+    display_name: 归属部门
+table_id: o_3f2067
+updated_at: 2024-11-13T06:27:20.222Z
+visualization_settings: >-
+  {"graph.dimensions":["fbwst3"],"graph.metrics":[null],"graph.series_order_dimension":null,"graph.series_order":null,"series_settings":{"":{"display":"area"}},"table.columns":[{"name":"_id","enabled":false},{"name":"name","fieldRef":["field","o_3f2067.name",null],"enabled":true},{"name":"f4l1uf","fieldRef":["field","o_3f2067.f4l1uf",null],"enabled":true},{"name":"fbwst3","fieldRef":["field","o_3f2067.fbwst3",null],"enabled":true},{"name":"fqmg6b","fieldRef":["field","o_3f2067.fqmg6b",null],"enabled":true},{"name":"ff1w20","fieldRef":["field","o_3f2067.ff1w20",null],"enabled":true},{"name":"f62n5b","fieldRef":["field","o_3f2067.f62n5b",null],"enabled":true}],"table.pivot_column":"_id","table.cell_column":"f62n5b"}

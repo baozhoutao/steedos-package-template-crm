@@ -1,0 +1,8 @@
+name: f3abgk
+amis:
+  id: 'u:947a003e974f'
+group: 产品明细信息
+label: 品牌
+required: true
+sort_no: 250
+type: text

@@ -1,0 +1,29 @@
+name: f3ragx
+amis:
+  id: 'u:a46cf55fc5b2'
+group: 通用
+label: 活动类型
+options:
+  - label: 品牌活动
+    value: 品牌活动
+    color: '#9013fe'
+  - label: 互联网广告
+    value: 互联网广告
+    color: '#7ed321'
+  - label: 会议营销
+    value: 会议营销
+    color: '#f5a623'
+  - label: 线下展会
+    value: 线下展会
+    color: '#50e3c2'
+  - label: 直播
+    value: 直播
+    color: '#21d34b'
+  - label: 生态伙伴
+    value: 生态伙伴
+    color: '#22bcb8'
+  - label: 其他
+    value: 其他
+    color: '#9b9b9b'
+sort_no: 200
+type: select

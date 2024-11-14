@@ -1,0 +1,9 @@
+name: fmln6h
+amis:
+  id: 'u:ca40a9907173'
+group: 财务信息
+label: 增值税税率 %
+precision: 18
+scale: 2
+sort_no: 1750
+type: number

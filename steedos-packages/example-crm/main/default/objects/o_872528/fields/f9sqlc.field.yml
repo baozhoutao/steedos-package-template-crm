@@ -1,0 +1,10 @@
+name: f9sqlc
+amis:
+  id: 'u:a0f45bf583a5'
+group: 管理员权限
+is_wide: true
+label: 用户
+reference_to: users
+required: true
+sort_no: 600
+type: lookup

@@ -1,0 +1,9 @@
+name: frwp2i
+amis:
+  id: 'u:56c808e1bdb1'
+group: 客户信息
+label: 协作人
+multiple: true
+reference_to: users
+sort_no: 1250
+type: lookup

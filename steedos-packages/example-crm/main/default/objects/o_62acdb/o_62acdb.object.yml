@@ -1,0 +1,18 @@
+name: o_62acdb
+custom: true
+enable_api: true
+enable_dataloader: true
+enable_enhanced_lookup: true
+enable_inline_edit: true
+enable_lock_detail: true
+enable_workflow: true
+field_groups:
+  - group_name: 通用
+  - group_name: 客户信息
+    collapsed: true
+  - group_name: 财务信息
+    collapsed: true
+icon: person_account
+is_enable: true
+label: 客户
+version: 2

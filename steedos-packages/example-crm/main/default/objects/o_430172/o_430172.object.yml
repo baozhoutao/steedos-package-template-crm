@@ -1,0 +1,17 @@
+name: o_430172
+custom: true
+enable_api: true
+enable_dataloader: true
+enable_enhanced_lookup: true
+enable_inline_edit: true
+enable_lock_detail: true
+enable_workflow: true
+field_groups:
+  - group_name: 客户信息
+  - group_name: 商机基本信息
+  - group_name: 商机详细情况
+  - group_name: 跟进情况
+icon: campaign
+is_enable: true
+label: 商机
+version: 2

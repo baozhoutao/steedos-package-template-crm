@@ -1,0 +1,9 @@
+name: fpcvt2
+amis:
+  id: 'u:df00a829570f'
+group: 商机基本信息
+label: 赢率
+precision: 18
+scale: 2
+sort_no: 500
+type: number

@@ -1,0 +1,13 @@
+name: fgihdk
+amis:
+  id: 'u:8446368d7685'
+data_type: text
+depend_on: []
+formula: '${f1pufc.name}'
+formula_blank_value: blanks
+group: 产品明细信息
+label: 产品属性
+reference_to: o_602dc6
+reference_to_field: name
+sort_no: 100
+type: formula

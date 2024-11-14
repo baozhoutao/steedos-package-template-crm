@@ -1,0 +1,15 @@
+name: o_d62ba6
+custom: true
+enable_api: true
+enable_dataloader: true
+enable_enhanced_lookup: true
+enable_inline_edit: true
+enable_lock_detail: true
+enable_workflow: true
+field_groups:
+  - group_name: 联系人基本信息
+  - group_name: 负责人信息
+icon: user_role
+is_enable: true
+label: 联系人
+version: 2

@@ -1,0 +1,12 @@
+name: locked
+amis:
+  id: 'u:db590752f601'
+description: ''
+enable_thousands: true
+group: 线索基本信息
+hidden: false
+inlineHelpText: ''
+label: 已锁定
+sort_no: 550
+type: boolean
+visible_on: '{{false}}'

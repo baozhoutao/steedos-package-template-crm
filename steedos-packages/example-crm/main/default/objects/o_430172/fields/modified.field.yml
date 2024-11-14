@@ -1,0 +1,10 @@
+name: modified
+amis:
+  id: 'u:253e4757480c'
+disabled: true
+group: 商机基本信息
+label: 修改时间
+readonly: true
+sort_no: 1200
+sortable: true
+type: datetime

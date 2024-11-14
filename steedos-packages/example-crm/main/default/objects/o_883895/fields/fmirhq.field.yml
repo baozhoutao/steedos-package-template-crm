@@ -1,0 +1,8 @@
+name: fmirhq
+amis:
+  id: 'u:9e9fe84de977'
+description: 'TODO: 控制显隐, 值如何处理?'
+group: 通用
+label: 客户名称
+sort_no: 150
+type: text

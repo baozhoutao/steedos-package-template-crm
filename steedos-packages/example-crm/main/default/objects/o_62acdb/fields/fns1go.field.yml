@@ -1,0 +1,9 @@
+name: fns1go
+amis:
+  id: 'u:de17150833fd'
+group: 客户信息
+is_wide: true
+label: 客户详情
+rows: 3
+sort_no: 1100
+type: textarea

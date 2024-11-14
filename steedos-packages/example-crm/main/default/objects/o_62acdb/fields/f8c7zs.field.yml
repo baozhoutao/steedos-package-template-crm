@@ -1,0 +1,29 @@
+name: f8c7zs
+amis:
+  id: 'u:3b49a0acd563'
+group: 财务信息
+label: 税种
+options:
+  - label: 纸质专票
+    value: 纸质专票
+    color: '#d0021b'
+  - label: 纸质普票
+    value: 纸质普票
+    color: '#f5a623'
+  - label: 电子普票
+    value: 电子普票
+    color: '#f8e71c'
+  - label: 电子专票
+    value: 电子专票
+    color: '#bd10e0'
+  - label: 全电专票
+    value: 全电专票
+    color: '#417505'
+  - label: 全电普票
+    value: 全电普票
+    color: '#3a5619'
+  - label: 无需开票
+    value: 无需开票
+    color: '#cac2c2'
+sort_no: 1700
+type: select

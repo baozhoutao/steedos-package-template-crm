@@ -1,0 +1,8 @@
+name: ffukm9
+amis:
+  id: 'u:753566b1844c'
+description: '客户是否已存在: TODO'
+group: 通用
+label: 客户查重
+sort_no: 350
+type: text

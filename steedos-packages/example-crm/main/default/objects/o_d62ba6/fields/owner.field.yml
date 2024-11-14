@@ -1,0 +1,11 @@
+name: owner
+amis:
+  id: 'u:02d274a3ff1d'
+description: ''
+group: 联系人基本信息
+index: true
+inlineHelpText: ''
+label: 所有者
+sort_no: 550
+sortable: true
+visible_on: '{{false}}'

@@ -1,0 +1,7 @@
+name: fri9we
+amis:
+  id: 'u:8533f8415946'
+group: 商机基本信息
+label: 阶段类型
+sort_no: 550
+type: text

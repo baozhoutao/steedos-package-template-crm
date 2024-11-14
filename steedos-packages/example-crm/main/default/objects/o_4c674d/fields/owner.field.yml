@@ -1,0 +1,12 @@
+name: owner
+amis:
+  id: 'u:eff5eb231953'
+description: ''
+enable_thousands: true
+group: 线索基本信息
+index: true
+inlineHelpText: ''
+label: 所有者
+sort_no: 500
+sortable: true
+visible_on: '{{false}}'

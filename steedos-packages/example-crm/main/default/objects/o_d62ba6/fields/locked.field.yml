@@ -1,0 +1,11 @@
+name: locked
+amis:
+  id: 'u:812d7db2d136'
+description: ''
+group: 联系人基本信息
+hidden: false
+inlineHelpText: ''
+label: 已锁定
+sort_no: 600
+type: boolean
+visible_on: '{{false}}'

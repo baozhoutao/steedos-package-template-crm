@@ -1,0 +1,9 @@
+name: f49smz
+amis:
+  id: 'u:3a21e786e108'
+group: 产品明细信息
+label: 增值税税率 %
+precision: 18
+scale: 6
+sort_no: 450
+type: percent

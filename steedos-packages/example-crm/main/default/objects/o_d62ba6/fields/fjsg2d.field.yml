@@ -1,0 +1,10 @@
+name: fjsg2d
+amis:
+  id: 'u:26c0c002dc0a'
+  type: switch
+  onText: 是
+  offText: 否
+group: 联系人基本信息
+label: 关键决策人
+sort_no: 450
+type: boolean

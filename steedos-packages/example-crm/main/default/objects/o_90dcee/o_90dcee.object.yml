@@ -1,0 +1,15 @@
+name: o_90dcee
+custom: true
+enable_api: true
+enable_dataloader: true
+enable_enhanced_lookup: true
+enable_inline_edit: true
+enable_lock_detail: true
+enable_workflow: true
+field_groups:
+  - group_name: 系统信息
+    collapsed: true
+icon: kanban
+is_enable: true
+label: 客户分析
+version: 2

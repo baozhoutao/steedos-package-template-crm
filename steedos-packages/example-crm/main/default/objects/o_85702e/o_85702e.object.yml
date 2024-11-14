@@ -1,0 +1,15 @@
+name: o_85702e
+custom: true
+enable_api: true
+enable_dataloader: true
+enable_enhanced_lookup: true
+enable_inline_edit: true
+enable_lock_detail: true
+enable_workflow: true
+field_groups:
+  - group_name: 通用
+  - group_name: 市场活动效果
+icon: catalog
+is_enable: true
+label: 市场活动记录
+version: 2

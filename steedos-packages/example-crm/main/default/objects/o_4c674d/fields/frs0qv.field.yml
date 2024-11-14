@@ -1,0 +1,8 @@
+name: frs0qv
+amis:
+  id: 'u:50ce7b620ece'
+group: 负责人信息
+label: 线索转化时间
+readonly: true
+sort_no: 1250
+type: datetime

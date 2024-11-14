@@ -1,0 +1,7 @@
+name: f1cf5v
+amis:
+  id: 'u:c64d0d36e013'
+group: 线索基本信息
+label: 部门
+sort_no: 200
+type: text

@@ -1,0 +1,9 @@
+name: f56trh
+amis:
+  id: 'u:bd4dc7224e4c'
+group: 通用
+label: 跟进人
+reference_to: users
+required: true
+sort_no: 550
+type: lookup

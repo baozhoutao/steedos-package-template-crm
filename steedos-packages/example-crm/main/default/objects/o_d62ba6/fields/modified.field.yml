@@ -1,0 +1,10 @@
+name: modified
+amis:
+  id: 'u:e30abf1e2a07'
+disabled: true
+group: 联系人基本信息
+label: 修改时间
+readonly: true
+sort_no: 900
+sortable: true
+type: datetime

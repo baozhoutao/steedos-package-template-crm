@@ -1,0 +1,13 @@
+name: name
+amis:
+  id: 'u:5531301ba154'
+filterable: true
+group: 通用
+index: true
+is_wide: true
+label: 计划内容
+required: true
+rows: 3
+searchable: true
+sort_no: 50
+type: textarea

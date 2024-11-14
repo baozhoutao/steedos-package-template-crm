@@ -1,0 +1,11 @@
+name: owner
+amis:
+  id: 'u:1cdfa7310bbd'
+description: ''
+group: 通用
+index: true
+inlineHelpText: ''
+label: 所有者
+sort_no: 150
+sortable: true
+visible_on: '{{false}}'

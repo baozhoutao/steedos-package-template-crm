@@ -1,0 +1,9 @@
+name: fqvixk
+amis: {}
+data_type: text
+formula: '${f3f9w6.f4goh7}'
+formula_blank_value: blanks
+group: 客户信息
+label: 联系人手机号
+sort_no: 300
+type: formula

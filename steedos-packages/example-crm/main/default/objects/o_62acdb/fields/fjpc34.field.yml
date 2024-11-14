@@ -1,0 +1,11 @@
+name: fjpc34
+amis:
+  id: 'u:78d3359ea871'
+  type: input-city
+  itemClassName: min-w-xs
+  searchable: true
+group: 客户信息
+is_wide: true
+label: 客户地址
+sort_no: 1000
+type: text

@@ -1,0 +1,7 @@
+name: fi07m8
+amis:
+  id: 'u:07cb31458165'
+group: 通用
+label: 回收时间
+sort_no: 400
+type: datetime

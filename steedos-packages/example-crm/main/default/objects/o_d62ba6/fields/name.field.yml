@@ -1,0 +1,11 @@
+name: name
+amis:
+  id: 'u:171b07e26387'
+filterable: true
+group: 联系人基本信息
+index: true
+label: 联系人姓名
+required: true
+searchable: true
+sort_no: 50
+type: text

@@ -1,0 +1,12 @@
+name: owner
+amis:
+  id: 'u:117f31c82192'
+description: ''
+enable_thousands: true
+group: 产品明细信息
+index: true
+inlineHelpText: ''
+label: 所有者
+sort_no: 650
+sortable: true
+visible_on: '{{false}}'

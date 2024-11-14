@@ -1,0 +1,11 @@
+name: owner
+amis:
+  id: 'u:5e5932e6197c'
+description: ''
+group: 商机基本信息
+index: true
+inlineHelpText: ''
+label: 所有者
+sort_no: 850
+sortable: true
+visible_on: '{{false}}'

@@ -1,0 +1,11 @@
+name: locked
+amis:
+  id: 'u:2aa7adf70d30'
+description: ''
+group: 商机基本信息
+hidden: false
+inlineHelpText: ''
+label: 已锁定
+sort_no: 900
+type: boolean
+visible_on: '{{false}}'

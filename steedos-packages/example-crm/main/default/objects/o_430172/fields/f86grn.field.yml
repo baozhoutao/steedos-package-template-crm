@@ -1,0 +1,8 @@
+name: f86grn
+amis:
+  id: 'u:2305edb8f010'
+group: 跟进情况
+label: 最后跟进时间
+readonly: true
+sort_no: 1400
+type: datetime

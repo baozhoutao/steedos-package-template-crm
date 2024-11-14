@@ -1,0 +1,8 @@
+name: f4iwze
+amis:
+  id: 'u:372b8476bb9a'
+group: 线索基本信息
+label: 线索池
+reference_to: o_872528
+sort_no: 300
+type: lookup

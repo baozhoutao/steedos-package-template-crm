@@ -1,0 +1,7 @@
+name: fpykdo
+amis:
+  id: 'u:d4769881b1a2'
+group: 联系人基本信息
+label: 职务
+sort_no: 300
+type: text

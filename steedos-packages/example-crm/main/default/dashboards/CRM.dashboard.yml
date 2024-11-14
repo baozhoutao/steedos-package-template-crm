@@ -1,0 +1,59 @@
+name: CRM
+archived: 'false'
+auto_apply_filters: 'true'
+enable_embedding: 'false'
+entity_id: 67344076f1b9cc0621f8b33c
+id: 67344076f1b9cc0621f8b33c
+parameters: []
+show_in_getting_started: 'false'
+cards:
+  - card_id: 673441aff1b9cc0621f8b33e
+    col: 0
+    entity_id: 673441f9f1b9cc0621f8b341
+    id: 673441f9f1b9cc0621f8b341
+    parameter_mappings: []
+    row: 0
+    series: []
+    size_x: 4
+    size_y: 3
+    visualization_settings: '{}'
+  - card_id: 67344238f1b9cc0621f8b342
+    col: 4
+    entity_id: 67344247f1b9cc0621f8b343
+    id: 67344247f1b9cc0621f8b343
+    parameter_mappings: []
+    row: 0
+    series: []
+    size_x: 4
+    size_y: 3
+    visualization_settings: '{}'
+  - card_id: 673443d5f1b9cc0621f8b345
+    col: 8
+    entity_id: 673443eef1b9cc0621f8b346
+    id: 673443eef1b9cc0621f8b346
+    parameter_mappings: []
+    row: 0
+    series: []
+    size_x: 5
+    size_y: 3
+    visualization_settings: '{}'
+  - card_id: 6734447df1b9cc0621f8b347
+    col: 13
+    entity_id: 6734449bf1b9cc0621f8b348
+    id: 6734449bf1b9cc0621f8b348
+    parameter_mappings: []
+    row: 0
+    series: []
+    size_x: 5
+    size_y: 3
+    visualization_settings: '"{}"'
+  - card_id: 673446c8f1b9cc0621f8b34a
+    col: 0
+    entity_id: 67344748f1b9cc0621f8b34b
+    id: 67344748f1b9cc0621f8b34b
+    parameter_mappings: []
+    row: 3
+    series: []
+    size_x: 8
+    size_y: 5
+    visualization_settings: '{}'

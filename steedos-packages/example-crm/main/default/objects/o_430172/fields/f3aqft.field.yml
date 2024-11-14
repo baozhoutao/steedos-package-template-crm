@@ -1,0 +1,7 @@
+name: f3aqft
+amis:
+  id: 'u:0fe59648b97e'
+group: 商机详细情况
+label: 预计成交日期
+sort_no: 1300
+type: datetime

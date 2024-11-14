@@ -1,0 +1,7 @@
+name: fvmjse
+amis:
+  id: 'u:09412469bf2f'
+group: 通用
+label: 活动开始时间
+sort_no: 100
+type: datetime

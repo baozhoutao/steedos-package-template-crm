@@ -1,0 +1,8 @@
+name: fg014d
+amis:
+  id: 'u:a84d20b59be5'
+group: 负责人信息
+label: 归属部门
+reference_to: organizations
+sort_no: 1000
+type: lookup

@@ -1,0 +1,8 @@
+name: f0o1ah
+amis:
+  id: 'u:0de142e8c8fd'
+group: 市场活动效果
+label: 活动总结
+rows: 3
+sort_no: 1000
+type: textarea

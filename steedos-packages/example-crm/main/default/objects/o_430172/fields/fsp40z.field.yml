@@ -1,0 +1,8 @@
+name: fsp40z
+amis:
+  id: 'u:fdac6cd42922'
+formula: 'SJ-{YYYY}{MM}{DD}{000}'
+group: 商机基本信息
+label: 商机编码
+sort_no: 600
+type: autonumber

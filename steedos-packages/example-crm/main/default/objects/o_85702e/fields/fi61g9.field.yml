@@ -1,0 +1,8 @@
+name: fi61g9
+amis:
+  id: 'u:064b8d5c2d11'
+group: 通用
+label: 责任人
+reference_to: users
+sort_no: 250
+type: lookup

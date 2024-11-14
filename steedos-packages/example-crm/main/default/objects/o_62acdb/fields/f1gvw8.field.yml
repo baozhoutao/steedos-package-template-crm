@@ -1,0 +1,9 @@
+name: f1gvw8
+amis:
+  id: 'u:4da1c84d3b7e'
+group: 财务信息
+label: 信用额度/元
+precision: 18
+scale: 2
+sort_no: 1550
+type: currency

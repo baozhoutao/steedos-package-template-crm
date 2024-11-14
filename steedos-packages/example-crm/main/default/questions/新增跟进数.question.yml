@@ -1,0 +1,30 @@
+name: 新增跟进数
+created_at: 2024-11-13T06:14:45.306Z
+creator_id: 672c72e8e6d7d9069e00f04f
+database_id: 1
+dataset_query:
+  database: 1
+  type: query
+  query:
+    source-table: o_883895
+    aggregation:
+      - - count
+display: scalar
+entity_id: 673443d5f1b9cc0621f8b345
+id: 673443d5f1b9cc0621f8b345
+parameter_mappings: []
+parameters: []
+query_type: query
+result_metadata:
+  - base_type: type/BigInteger
+    display_name: 计数
+    effective_type: type/BigInteger
+    field_ref:
+      - aggregation
+      - 0
+    name: count
+    semantic_type: type/Quantity
+    source: aggregation
+table_id: o_883895
+updated_at: 2024-11-13T06:14:45.306Z
+visualization_settings: '{"column_settings":{"[\"name\",\"count\"]":{"suffix":"次","decimals":0}}}'

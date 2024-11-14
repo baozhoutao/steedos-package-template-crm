@@ -1,0 +1,18 @@
+name: fifgzp
+amis:
+  id: 'u:ef31df04430d'
+group: 产品明细信息
+label: 单位
+options:
+  - label: 个
+    value: 个
+  - label: 枚
+    value: 枚
+  - label: 台
+    value: 台
+  - label: 套
+    value: 套
+  - label: 件
+    value: 件
+sort_no: 350
+type: select

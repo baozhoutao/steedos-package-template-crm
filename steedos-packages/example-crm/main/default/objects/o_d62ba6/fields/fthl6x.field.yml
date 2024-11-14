@@ -1,0 +1,7 @@
+name: fthl6x
+amis:
+  id: 'u:876ce912f7b0'
+group: 联系人基本信息
+label: 微信号
+sort_no: 350
+type: text

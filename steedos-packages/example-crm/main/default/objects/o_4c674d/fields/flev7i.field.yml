@@ -1,0 +1,7 @@
+name: flev7i
+amis:
+  id: 'u:f68f09e2632d'
+group: 线索基本信息
+label: 职务
+sort_no: 250
+type: text

@@ -1,0 +1,8 @@
+name: fqmg6b
+amis:
+  id: 'u:c9db08a2713e'
+group: 通用
+label: 计划执行人
+reference_to: users
+sort_no: 200
+type: lookup

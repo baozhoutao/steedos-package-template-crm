@@ -1,0 +1,13 @@
+name: code
+amis:
+  id: 'u:c2356cb35b51'
+filterable: true
+formula: ABC-YYYY-MM-DD-0000
+group: 产品明细信息
+index: true
+is_wide: true
+label: 产品编码
+required: true
+searchable: true
+sort_no: 50
+type: autonumber

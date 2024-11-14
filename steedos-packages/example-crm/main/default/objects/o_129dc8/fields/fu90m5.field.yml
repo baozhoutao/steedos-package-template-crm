@@ -1,0 +1,10 @@
+name: fu90m5
+amis:
+  id: 'u:c8ca8a9cbc29'
+description: 销售单价(含税)/ (1+增值税税率)
+group: 产品明细信息
+label: 销售单价(不含税)/元
+precision: 18
+scale: 2
+sort_no: 500
+type: currency

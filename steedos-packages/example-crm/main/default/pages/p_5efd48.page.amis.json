@@ -1,0 +1,22 @@
+{
+    "type": "page",
+    "title": "Welcome to Steedos",
+    "body": [
+        {
+            "type": "tpl",
+            "tpl": "首页",
+            "inline": true,
+            "wrapperComponent": "",
+            "id": "u:4d45d6fc8e5f",
+            "editorState": "default"
+        }
+    ],
+    "regions": [
+        "body"
+    ],
+    "data": {
+        "initialValues": {},
+        "appId": "builder",
+        "title": ""
+    }
+}

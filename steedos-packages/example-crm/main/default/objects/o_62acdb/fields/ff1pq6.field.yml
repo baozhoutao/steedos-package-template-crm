@@ -1,0 +1,11 @@
+name: ff1pq6
+amis:
+  id: 'u:3f0c9f393bc3'
+description: ''
+group: 客户信息
+label: 客户查重：客户表内该客户数量
+precision: 18
+readonly: true
+scale: 2
+sort_no: 1300
+type: number

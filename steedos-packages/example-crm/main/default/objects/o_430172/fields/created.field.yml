@@ -1,0 +1,10 @@
+name: created
+amis:
+  id: 'u:14c57849ace0'
+disabled: true
+group: 商机基本信息
+label: 创建时间
+readonly: true
+sort_no: 1100
+sortable: true
+type: datetime

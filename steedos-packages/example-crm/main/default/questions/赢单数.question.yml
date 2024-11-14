@@ -1,0 +1,36 @@
+name: 赢单数
+created_at: 2024-11-13T06:17:33.976Z
+creator_id: 672c72e8e6d7d9069e00f04f
+database_id: 1
+dataset_query:
+  database: 1
+  type: query
+  query:
+    source-table: o_430172
+    filter:
+      - '='
+      - - field
+        - o_430172.fri9we
+        - null
+      - 赢单
+    aggregation:
+      - - count
+display: scalar
+entity_id: 6734447df1b9cc0621f8b347
+id: 6734447df1b9cc0621f8b347
+parameter_mappings: []
+parameters: []
+query_type: query
+result_metadata:
+  - base_type: type/BigInteger
+    display_name: 计数
+    effective_type: type/BigInteger
+    field_ref:
+      - aggregation
+      - 0
+    name: count
+    semantic_type: type/Quantity
+    source: aggregation
+table_id: o_430172
+updated_at: 2024-11-13T06:17:33.976Z
+visualization_settings: '{"column_settings":{"[\"name\",\"count\"]":{"decimals":0,"suffix":"个"}}}'

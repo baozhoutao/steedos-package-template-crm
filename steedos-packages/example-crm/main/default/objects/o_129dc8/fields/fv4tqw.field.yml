@@ -1,0 +1,9 @@
+name: fv4tqw
+amis:
+  id: 'u:ae2095c718ad'
+group: 产品明细信息
+label: 成本单价/元
+precision: 18
+scale: 2
+sort_no: 400
+type: currency

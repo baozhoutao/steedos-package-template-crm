@@ -1,0 +1,33 @@
+{
+    "type": "page",
+    "title": "Welcome to Steedos",
+    "body": [
+        {
+            "type": "steedos-object-listview",
+            "label": "列表视图",
+            "objectApiName": "o_62acdb",
+            "listName": "all",
+            "showHeader": true,
+            "id": "u:68fdc7f27ca6",
+            "crudMode": "table",
+            "className": "m-0 p-0"
+        }
+    ],
+    "regions": [
+        "body"
+    ],
+    "data": {
+        "initialValues": {},
+        "appId": "builder",
+        "title": ""
+    },
+    "asideResizor": false,
+    "editorState": "default",
+    "pullRefresh": {
+        "disabled": true
+    },
+    "id": "u:a203a7ed8030",
+    "className": "m-0 p-0",
+    "bodyClassName": "m-0 p-0",
+    "bodyclassName": "m-0 p-0"
+}

@@ -1,0 +1,14 @@
+name: fpiouc
+amis:
+  id: 'u:294850656b28'
+group: 通用
+label: 客户级别
+options:
+  - label: 重要客户
+    value: 重要客户
+    color: '#f5a623'
+  - label: 一般客户
+    value: 一般客户
+    color: '#4a90e2'
+sort_no: 250
+type: select

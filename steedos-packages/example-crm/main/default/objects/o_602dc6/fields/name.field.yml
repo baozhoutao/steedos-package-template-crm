@@ -1,0 +1,11 @@
+name: name
+amis:
+  id: 'u:6ab5d9d74069'
+filterable: true
+group: 通用
+index: true
+label: 产品属性
+required: true
+searchable: true
+sort_no: 50
+type: text

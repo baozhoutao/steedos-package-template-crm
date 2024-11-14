@@ -1,0 +1,31 @@
+name: 新增客户数
+created_at: 2024-11-13T06:05:35.246Z
+creator_id: 672c72e8e6d7d9069e00f04f
+database_id: 1
+dataset_query:
+  query:
+    source-table: o_62acdb
+    aggregation:
+      - - count
+  type: query
+  database: 1
+display: scalar
+entity_id: 673441aff1b9cc0621f8b33e
+id: 673441aff1b9cc0621f8b33e
+parameter_mappings: []
+parameters: []
+query_type: query
+result_metadata:
+  - base_type: type/BigInteger
+    display_name: 计数
+    effective_type: type/BigInteger
+    field_ref:
+      - aggregation
+      - 0
+    name: count
+    semantic_type: type/Quantity
+    source: aggregation
+table_id: o_62acdb
+updated_at: 2024-11-13T06:05:35.246Z
+visualization_settings: >-
+  {"column_settings":{"[\"name\",\"count\"]":{"number_style":"decimal","decimals":0,"suffix":"家"}}}

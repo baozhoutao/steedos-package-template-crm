@@ -1,0 +1,17 @@
+name: fd37jo
+amis:
+  id: 'u:6ecbfd5052db'
+  type: checkboxes
+data_type: text
+group: 通用
+label: 生效范围
+multiple: true
+options:
+  - label: 领取
+    value: 领取
+  - label: 分配
+    value: 分配
+  - label: 新建
+    value: 新建
+sort_no: 550
+type: select

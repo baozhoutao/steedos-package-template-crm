@@ -1,0 +1,7 @@
+name: fcmo2r
+amis:
+  id: 'u:e66746d88c1b'
+group: 财务信息
+label: 开户电话
+sort_no: 1800
+type: text

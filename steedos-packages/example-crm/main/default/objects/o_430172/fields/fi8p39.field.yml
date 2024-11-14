@@ -1,0 +1,9 @@
+name: fi8p39
+amis:
+  id: 'u:b2731788a3c7'
+group: 商机基本信息
+label: 协作人
+multiple: true
+reference_to: users
+sort_no: 750
+type: lookup

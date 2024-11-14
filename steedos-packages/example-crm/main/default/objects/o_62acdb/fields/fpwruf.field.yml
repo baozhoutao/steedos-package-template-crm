@@ -1,0 +1,39 @@
+name: fpwruf
+amis:
+  id: 'u:f2b7cf2a6664'
+group: 客户信息
+is_wide: false
+label: 所属行业
+options:
+  - label: 制造业
+    value: 制造业
+    color: '#8b572a'
+  - label: 建筑业
+    value: 建筑业
+    color: '#417505'
+  - label: 金融业
+    value: 金融业
+    color: '#d0021b'
+  - label: 房地产业
+    value: 房地产业
+    color: '#bd10e0'
+  - label: 交通运输业
+    value: 交通运输业
+    color: '#417505'
+  - label: 农/林/牧/渔业
+    value: 农/林/牧/渔业
+    color: '#7ed321'
+  - label: 政府/非盈利机构
+    value: 政府/非盈利机构
+    color: '#81e018'
+  - label: IT/通信/电子/互联网
+    value: IT/通信/电子/互联网
+    color: '#0c5dde'
+  - label: 贸易/批发/零售/租赁业
+    value: 贸易/批发/零售/租赁业
+    color: '#abc3e0'
+  - label: 其他
+    value: 其他
+    color: '#b2acac'
+sort_no: 900
+type: select

@@ -1,0 +1,9 @@
+name: fx12ij
+amis: {}
+data_type: text
+formula: '${f3f9w6.name}'
+formula_blank_value: blanks
+group: 客户信息
+label: 联系人姓名
+sort_no: 250
+type: formula

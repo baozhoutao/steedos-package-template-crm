@@ -1,0 +1,8 @@
+name: f3f9w6
+amis:
+  id: 'u:7e6a0a39532b'
+group: 客户信息
+label: 联系人
+reference_to: o_d62ba6
+sort_no: 200
+type: lookup

@@ -1,0 +1,9 @@
+name: f3s1hz
+amis:
+  id: 'u:36e9720a7eff'
+group: 通用
+label: 预计投入成本
+precision: 18
+scale: 2
+sort_no: 350
+type: currency

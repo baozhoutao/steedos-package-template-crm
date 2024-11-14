@@ -1,0 +1,8 @@
+name: fk74j3
+amis:
+  id: 'u:5a4e02565e00'
+group: 通用
+label: 责任部门
+reference_to: organizations
+sort_no: 300
+type: lookup

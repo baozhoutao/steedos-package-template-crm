@@ -1,0 +1,8 @@
+name: fxi2wr
+amis:
+  id: 'u:cb80b1f0a14b'
+description: 缺失功能. TODO
+group: 商机基本信息
+label: 销售阶段
+sort_no: 400
+type: text

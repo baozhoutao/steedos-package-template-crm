@@ -1,0 +1,22 @@
+name: fxc8r5
+amis:
+  id: 'u:a09bc5a44168'
+data_type: text
+group: 负责人信息
+label: 线索退回原因
+options:
+  - label: 联系不上客户
+    value: 联系不上客户
+    color: '#9b9b9b'
+  - label: 客户无需求
+    value: 客户无需求
+    color: '#4a4a4a'
+  - label: 不满足客户需求
+    value: 不满足客户需求
+    color: '#f5a623'
+  - label: 其他
+    value: 其他
+    color: '#8b572a'
+readonly: true
+sort_no: 1300
+type: select

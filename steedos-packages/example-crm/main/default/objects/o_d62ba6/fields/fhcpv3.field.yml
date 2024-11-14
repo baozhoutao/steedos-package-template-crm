@@ -1,0 +1,8 @@
+name: fhcpv3
+amis:
+  id: 'u:940012f5ce6a'
+group: 负责人信息
+label: 归属部门
+reference_to: organizations
+sort_no: 1050
+type: lookup

@@ -1,0 +1,13 @@
+name: name
+amis:
+  id: 'u:8eed1d0a64ed'
+filterable: true
+group: 通用
+index: true
+is_wide: true
+label: 跟进记录
+required: true
+rows: 3
+searchable: true
+sort_no: 50
+type: textarea

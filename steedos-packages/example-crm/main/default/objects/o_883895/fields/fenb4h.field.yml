@@ -1,0 +1,8 @@
+name: fenb4h
+amis:
+  id: 'u:26636528684b'
+description: 'TODO: 控制显隐, 值如何处理?'
+group: 通用
+label: 商机编码
+sort_no: 300
+type: text

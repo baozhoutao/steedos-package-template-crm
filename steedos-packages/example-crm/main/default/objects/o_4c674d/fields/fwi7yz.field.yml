@@ -1,0 +1,9 @@
+name: fwi7yz
+amis:
+  id: 'u:418e53e0e766'
+enable_enhanced_lookup: false
+group: 线索基本信息
+label: 线索来源
+reference_to: o_85702e
+sort_no: 350
+type: lookup

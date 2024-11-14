@@ -1,0 +1,17 @@
+name: fe6hwu
+amis:
+  id: 'u:d2e791d3f748'
+group: 财务信息
+label: 结算期限
+options:
+  - label: 月结
+    value: 月结
+    color: '#d0021b'
+  - label: 季结
+    value: 季结
+    color: '#f5a623'
+  - label: 现结
+    value: 现结
+    color: '#417505'
+sort_no: 1500
+type: select

@@ -1,0 +1,9 @@
+name: modified_by
+amis: {}
+disabled: true
+group: 线索基本信息
+label: 修改人
+readonly: true
+reference_to: users
+sort_no: 900
+type: lookup

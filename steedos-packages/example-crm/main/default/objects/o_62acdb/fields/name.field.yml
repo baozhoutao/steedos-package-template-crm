@@ -1,0 +1,11 @@
+name: name
+amis:
+  id: 'u:9e30afc43249'
+filterable: true
+group: 通用
+index: true
+label: 客户名称
+required: true
+searchable: true
+sort_no: 50
+type: text

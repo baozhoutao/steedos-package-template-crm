@@ -1,0 +1,8 @@
+name: ffmrpb
+amis:
+  id: 'u:13633849362a'
+group: 负责人信息
+label: 最后跟进时间
+readonly: true
+sort_no: 1200
+type: datetime

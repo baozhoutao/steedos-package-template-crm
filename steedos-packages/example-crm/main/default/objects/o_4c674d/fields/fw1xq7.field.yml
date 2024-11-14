@@ -1,0 +1,10 @@
+name: fw1xq7
+amis:
+  id: 'u:f19f0a7a2fd6'
+group: 线索基本信息
+is_wide: true
+label: 线索详情
+required: true
+rows: 3
+sort_no: 450
+type: textarea

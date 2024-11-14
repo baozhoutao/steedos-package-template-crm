@@ -1,0 +1,24 @@
+name: fd6ymf
+amis:
+  id: 'u:1ddcb171f329'
+data_type: text
+group: 通用
+label: 跟进内容
+options:
+  - label: 线索筛选
+    value: 线索筛选
+    color: '#4a90e2'
+  - label: 需求挖掘
+    value: 需求挖掘
+    color: '#f5a623'
+  - label: 方案沟通
+    value: 方案沟通
+    color: '#417505'
+  - label: 报价
+    value: 报价
+    color: '#d0021b'
+  - label: 合同回款
+    value: 合同回款
+    color: '#50e3c2'
+sort_no: 450
+type: select

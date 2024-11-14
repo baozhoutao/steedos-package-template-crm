@@ -1,0 +1,7 @@
+name: fiv2ho
+amis:
+  id: 'u:c135b49865a3'
+group: 财务信息
+label: 发票抬头
+sort_no: 1600
+type: text

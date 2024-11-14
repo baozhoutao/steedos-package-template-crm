@@ -1,0 +1,9 @@
+name: fz3wl0
+amis:
+  id: 'u:2359d8f1db1e'
+group: 负责人信息
+label: 转化为客户
+readonly: true
+reference_to: o_62acdb
+sort_no: 1350
+type: lookup

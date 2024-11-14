@@ -1,0 +1,8 @@
+name: f1gbxo
+amis:
+  id: 'u:b01f3a6bd1bc'
+group: 负责人信息
+label: 预计回收时间
+readonly: true
+sort_no: 1400
+type: datetime

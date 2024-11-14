@@ -1,0 +1,8 @@
+name: fd0e89
+amis:
+  id: 'u:c900624d1aa5'
+group: 通用
+label: 联系人
+reference_to: o_d62ba6
+sort_no: 350
+type: lookup

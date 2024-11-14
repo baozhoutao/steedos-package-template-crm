@@ -1,0 +1,9 @@
+name: fvcbso
+amis:
+  id: 'u:f8dd1c11b2ff'
+group: 线索基本信息
+is_wide: false
+label: 联系人
+required: true
+sort_no: 150
+type: text

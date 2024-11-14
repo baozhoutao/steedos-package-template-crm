@@ -1,0 +1,8 @@
+name: f4l1uf
+amis:
+  id: 'u:1473af2d69ea'
+group: 通用
+label: 跟进客户
+reference_to: o_62acdb
+sort_no: 100
+type: lookup

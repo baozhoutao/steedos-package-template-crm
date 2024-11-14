@@ -1,0 +1,13 @@
+name: company_id
+amis:
+  id: 'u:0aaebcf709d5'
+description: ''
+group: 联系人基本信息
+index: true
+inlineHelpText: ''
+label: 主分部
+reference_to: company
+sort_no: 650
+sortable: true
+type: lookup
+visible_on: '{{false}}'

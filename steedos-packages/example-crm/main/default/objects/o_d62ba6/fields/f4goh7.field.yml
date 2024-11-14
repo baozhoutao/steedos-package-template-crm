@@ -1,0 +1,8 @@
+name: f4goh7
+amis:
+  id: 'u:f45172c22fa9'
+group: 联系人基本信息
+label: 联系人手机号
+required: true
+sort_no: 100
+type: text

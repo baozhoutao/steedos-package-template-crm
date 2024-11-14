@@ -1,0 +1,10 @@
+name: f1bvgc
+amis: {}
+data_type: text
+formula: '${fk7o42.f8rpbz}'
+formula_blank_value: blanks
+group: 客户信息
+is_wide: false
+label: 客户编号
+sort_no: 150
+type: formula

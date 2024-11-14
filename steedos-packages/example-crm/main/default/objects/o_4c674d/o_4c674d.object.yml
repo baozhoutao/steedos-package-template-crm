@@ -1,0 +1,15 @@
+name: o_4c674d
+custom: true
+enable_api: true
+enable_dataloader: true
+enable_enhanced_lookup: true
+enable_inline_edit: true
+enable_lock_detail: true
+enable_workflow: true
+field_groups:
+  - group_name: 线索基本信息
+  - group_name: 负责人信息
+icon: feed
+is_enable: true
+label: 线索
+version: 2

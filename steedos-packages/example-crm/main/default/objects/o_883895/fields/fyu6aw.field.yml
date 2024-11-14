@@ -1,0 +1,18 @@
+name: fyu6aw
+amis:
+  id: 'u:4e651296499b'
+  type: input-text
+group: 通用
+label: 跟进方式
+options:
+  - label: 微信沟通
+    value: 微信沟通
+    color: '#4a90e2'
+  - label: 电话沟通
+    value: 电话沟通
+    color: '#417505'
+  - label: 线下拜访
+    value: 线下拜访
+    color: '#f5a623'
+sort_no: 400
+type: select

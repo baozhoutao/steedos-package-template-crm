@@ -1,0 +1,8 @@
+name: f60il1
+amis:
+  id: 'u:3ecacc3b7470'
+group: 通用
+label: 活动计划
+rows: 3
+sort_no: 450
+type: textarea

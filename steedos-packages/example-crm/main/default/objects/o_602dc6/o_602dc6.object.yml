@@ -1,0 +1,14 @@
+name: o_602dc6
+custom: true
+enable_api: true
+enable_dataloader: true
+enable_enhanced_lookup: true
+enable_inline_edit: true
+enable_lock_detail: true
+enable_workflow: true
+field_groups:
+  - group_name: 通用
+icon: shift_type
+is_enable: true
+label: 产品分类
+version: 2

@@ -1,0 +1,25 @@
+name: all
+columns:
+  - field: name
+  - field: fvmjse
+  - field: fgmp76
+  - field: f3ragx
+  - field: fi61g9
+  - field: fk74j3
+  - field: f3s1hz
+  - field: f2zwnk
+  - field: f60il1
+  - field: fwgoij
+  - field: f0o1ah
+  - field: created
+  - field: created_by
+  - field: modified
+crud_mode: table
+filter_scope: space
+filters: []
+label: 所有
+mobile_columns: []
+shared_to: space
+sort:
+  - field_name: created
+    order: desc

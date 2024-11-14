@@ -1,0 +1,8 @@
+name: fbwst3
+amis:
+  id: 'u:0b4c17016bd7'
+group: 通用
+label: 计划时间
+required: true
+sort_no: 150
+type: datetime

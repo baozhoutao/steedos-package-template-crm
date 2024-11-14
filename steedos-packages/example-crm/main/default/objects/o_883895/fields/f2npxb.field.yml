@@ -1,0 +1,8 @@
+name: f2npxb
+amis:
+  id: 'u:371c29eb2c21'
+group: 通用
+label: 跟进商机
+reference_to: o_430172
+sort_no: 250
+type: lookup

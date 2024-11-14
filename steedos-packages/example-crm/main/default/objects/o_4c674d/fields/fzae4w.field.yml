@@ -1,0 +1,9 @@
+name: fzae4w
+amis:
+  id: 'u:4b2d7671ddf9'
+group: 负责人信息
+label: 协作人
+multiple: true
+reference_to: users
+sort_no: 1050
+type: lookup

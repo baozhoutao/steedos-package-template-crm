@@ -1,0 +1,9 @@
+name: faky4l
+amis:
+  id: 'u:a028fc1ab349'
+description: 'TODO: 商机明细子表格. 还有一些相关计算字段. 依赖了产品表'
+group: 商机详细情况
+is_wide: true
+label: 商机明细
+sort_no: 1350
+type: html

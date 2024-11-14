@@ -1,0 +1,8 @@
+name: f8rpbz
+amis:
+  id: 'u:48fc8aa1c9c1'
+formula: '自动编号{YYYY}{MM}{DD}{000}'
+group: 通用
+label: 客户编码
+sort_no: 100
+type: autonumber

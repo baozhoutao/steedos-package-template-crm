@@ -1,0 +1,7 @@
+name: f653kt
+amis:
+  id: 'u:2cad26c4787f'
+group: 财务信息
+label: 发票税号
+sort_no: 1650
+type: text

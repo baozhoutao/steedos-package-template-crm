@@ -1,0 +1,40 @@
+name: all
+columns:
+  - field: name
+  - field: f8rpbz
+  - field: fifbjl
+  - field: fl9uj1
+  - field: fpiouc
+  - field: f98lc5
+  - field: ffukm9
+  - field: fi07m8
+  - field: fpwruf
+  - field: f52mjw
+  - field: fjpc34
+  - field: f9y2gz
+  - field: fns1go
+  - field: fmt7ly
+  - field: f74ykx
+  - field: frwp2i
+  - field: ff1pq6
+  - field: f26h80
+  - field: fkoaxl
+  - field: f54zpw
+  - field: fe6hwu
+  - field: f1gvw8
+  - field: fiv2ho
+  - field: f653kt
+  - field: f8c7zs
+  - field: fmln6h
+  - field: fcmo2r
+  - field: fzmras
+  - field: f5m70z
+crud_mode: table
+filter_scope: space
+filters: []
+label: 所有
+mobile_columns: []
+shared_to: space
+sort:
+  - field_name: created
+    order: desc

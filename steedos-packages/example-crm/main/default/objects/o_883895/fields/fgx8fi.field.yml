@@ -1,0 +1,8 @@
+name: fgx8fi
+amis:
+  id: 'u:bc384bf7acac'
+description: 'TODO: 控制显隐, 值如何处理?'
+group: 通用
+label: 客户编码
+sort_no: 200
+type: text

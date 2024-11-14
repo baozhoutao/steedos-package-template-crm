@@ -1,0 +1,64 @@
+name: CRM (简版)
+code: a_822351
+icon_slds: lead_insights
+is_creator: true
+mobile: true
+showSidebar: true
+sort: 9100
+tab_groups:
+  - group_name: 经营看板
+    default_open: true
+  - group_name: 产品管理
+    default_open: true
+  - group_name: 客户管理
+    default_open: false
+  - group_name: 市场及线索管理
+    default_open: false
+  - group_name: 商机管理
+    default_open: false
+  - group_name: 业务设置
+    default_open: false
+tab_items:
+  t_70c771:
+    group: ''
+  page_p_eb5f4a:
+    group: ''
+  page_p_78cf22:
+    group: 经营看板
+  page_p_a7e82f:
+    group: 经营看板
+  object_o_129dc8:
+    group: 产品管理
+  object_o_602dc6:
+    group: 产品管理
+  page_p_8bc3b3:
+    group: 产品管理
+  page_p_46a089:
+    group: 客户管理
+  object_o_62acdb:
+    group: 客户管理
+  object_o_d62ba6:
+    group: 客户管理
+  object_o_883895:
+    group: 客户管理
+  object_o_3f2067:
+    group: 客户管理
+  page_p_2be7bc:
+    group: 客户管理
+  object_o_85702e:
+    group: 市场及线索管理
+  page_p_8a1c50:
+    group: 市场及线索管理
+  object_o_4c674d:
+    group: 市场及线索管理
+  page_p_023b03:
+    group: 市场及线索管理
+  object_o_430172:
+    group: 商机管理
+  page_p_a79d83:
+    group: 商机管理
+  object_o_872528:
+    group: 业务设置
+  object_o_0c2018:
+    group: 业务设置
+visible: true

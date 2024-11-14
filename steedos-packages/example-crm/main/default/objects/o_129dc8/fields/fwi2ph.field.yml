@@ -1,0 +1,22 @@
+name: fwi2ph
+amis:
+  id: 'u:8fa35705ed7e'
+  type: checkboxes
+  inline: false
+data_type: text
+group: 产品明细信息
+label: 产品权限
+multiple: true
+options:
+  - label: 销售
+    value: 销售
+    color: '#4a90e2'
+  - label: 采购
+    value: 采购
+    color: '#f5a623'
+  - label: 赠送
+    value: 赠送
+    color: '#9013fe'
+required: true
+sort_no: 550
+type: select

@@ -1,0 +1,8 @@
+name: fabvwx
+amis:
+  id: 'u:090b65a1830e'
+group: 通用
+label: 归属部门
+reference_to: organizations
+sort_no: 600
+type: lookup

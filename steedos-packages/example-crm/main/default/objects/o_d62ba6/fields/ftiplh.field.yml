@@ -1,0 +1,7 @@
+name: ftiplh
+amis:
+  id: 'u:6f998324fb90'
+group: 联系人基本信息
+label: 客户编码
+sort_no: 200
+type: text

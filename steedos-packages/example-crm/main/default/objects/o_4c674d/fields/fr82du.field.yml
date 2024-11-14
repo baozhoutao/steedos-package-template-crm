@@ -1,0 +1,8 @@
+name: fr82du
+amis:
+  id: 'u:4480568f0c15'
+group: 负责人信息
+label: 领取时间
+readonly: true
+sort_no: 1150
+type: datetime

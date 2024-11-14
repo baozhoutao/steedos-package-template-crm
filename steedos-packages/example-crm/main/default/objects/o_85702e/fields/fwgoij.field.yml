@@ -1,0 +1,9 @@
+name: fwgoij
+amis:
+  id: 'u:c8dc04bf1350'
+group: 市场活动效果
+label: 实际投入成本
+precision: 18
+scale: 2
+sort_no: 950
+type: currency

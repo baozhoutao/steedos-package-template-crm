@@ -1,0 +1,12 @@
+name: f9y2gz
+amis:
+  id: 'u:f9ad3a96d25b'
+  minRows: 3
+  maxRows: 20
+  placeholder: 请填写详细地址
+group: 客户信息
+is_wide: true
+label: 详细地址
+rows: 3
+sort_no: 1050
+type: textarea

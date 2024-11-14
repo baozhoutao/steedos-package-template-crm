@@ -1,0 +1,8 @@
+name: fmvhd7
+amis:
+  id: 'u:cfebe0160b7a'
+group: 商机基本信息
+label: 销售归属部门
+reference_to: organizations
+sort_no: 700
+type: lookup

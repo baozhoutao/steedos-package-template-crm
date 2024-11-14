@@ -1,0 +1,20 @@
+name: fzmras
+amis:
+  id: 'u:8d0496345bc4'
+group: 财务信息
+label: 开户银行
+options:
+  - label: 中国银行
+    value: 中国银行
+    color: '#d0021b'
+  - label: 招商银行
+    value: 招商银行
+    color: '#f5a623'
+  - label: 建设银行
+    value: 建设银行
+    color: '#4a90e2'
+  - label: 工商银行
+    value: 工商银行
+    color: '#417505'
+sort_no: 1850
+type: select

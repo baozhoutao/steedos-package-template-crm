@@ -1,0 +1,9 @@
+name: f98lc5
+amis:
+  id: 'u:6116bb341a15'
+description: 可在“业务规则-公海池”进行新增、修改
+group: 通用
+label: 所属公海
+reference_to: o_0c2018
+sort_no: 300
+type: lookup

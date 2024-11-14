@@ -1,0 +1,15 @@
+name: company_ids
+amis:
+  id: 'u:760e64964075'
+description: ''
+group: 商机基本信息
+hidden: false
+index: true
+inlineHelpText: ''
+label: 所属分部
+multiple: true
+reference_to: company
+sort_no: 1000
+sortable: true
+type: lookup
+visible_on: '{{false}}'

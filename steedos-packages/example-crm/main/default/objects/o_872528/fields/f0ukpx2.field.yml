@@ -1,0 +1,9 @@
+name: f0ukpx2
+amis:
+  id: 'u:d7b628e4331c'
+  label: 编辑
+  option: ''
+group: 成员权限
+label: 编辑
+sort_no: 650
+type: toggle

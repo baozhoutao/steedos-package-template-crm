@@ -1,0 +1,16 @@
+name: o_872528
+custom: true
+enable_api: true
+enable_dataloader: true
+enable_enhanced_lookup: true
+enable_inline_edit: true
+enable_lock_detail: true
+enable_workflow: true
+field_groups:
+  - group_name: 通用
+  - group_name: 管理员权限
+  - group_name: 成员权限
+icon: calculated_insights
+is_enable: true
+label: 线索池
+version: 2

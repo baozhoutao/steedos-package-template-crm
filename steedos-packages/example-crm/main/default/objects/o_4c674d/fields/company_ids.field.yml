@@ -1,0 +1,16 @@
+name: company_ids
+amis:
+  id: 'u:10821f681c4d'
+description: ''
+enable_thousands: true
+group: 线索基本信息
+hidden: false
+index: true
+inlineHelpText: ''
+label: 所属分部
+multiple: true
+reference_to: company
+sort_no: 650
+sortable: true
+type: lookup
+visible_on: '{{false}}'

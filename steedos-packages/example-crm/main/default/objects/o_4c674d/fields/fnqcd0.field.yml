@@ -1,0 +1,8 @@
+name: fnqcd0
+amis:
+  id: 'u:dcdcc47c125e'
+group: 负责人信息
+label: 负责人
+reference_to: users
+sort_no: 950
+type: lookup

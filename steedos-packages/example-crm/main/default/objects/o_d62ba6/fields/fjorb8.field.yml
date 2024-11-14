@@ -1,0 +1,7 @@
+name: fjorb8
+amis:
+  id: 'u:900595920fc2'
+group: 联系人基本信息
+label: 邮箱
+sort_no: 400
+type: email

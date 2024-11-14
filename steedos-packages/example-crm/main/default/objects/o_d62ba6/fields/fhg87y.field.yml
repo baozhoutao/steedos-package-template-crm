@@ -1,0 +1,8 @@
+name: fhg87y
+amis:
+  id: 'u:c90d29066503'
+group: 负责人信息
+label: 负责人
+reference_to: users
+sort_no: 1000
+type: lookup

@@ -1,0 +1,20 @@
+name: fx5t0f
+amis:
+  id: 'u:c874b5647369'
+  type: input-text
+data_type: text
+group: 商机基本信息
+inlineHelpText: 请选择输单原因
+label: 输单原因
+options:
+  - label: 客户需求消失
+    value: 客户需求消失
+    color: '#4a4a4a'
+  - label: 价格不满足期望
+    value: 价格不满足期望
+    color: '#d0021b'
+  - label: 产品不匹配需求
+    value: 产品不匹配需求
+    color: '#4a90e2'
+sort_no: 450
+type: select

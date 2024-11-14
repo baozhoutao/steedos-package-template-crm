@@ -1,0 +1,13 @@
+{
+    "type": "page",
+    "title": "Welcome to Steedos",
+    "body": [],
+    "regions": [
+        "body"
+    ],
+    "data": {
+        "initialValues": {},
+        "appId": "builder",
+        "title": ""
+    }
+}

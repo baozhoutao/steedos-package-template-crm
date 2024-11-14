@@ -1,0 +1,19 @@
+{
+    "type": "page",
+    "title": "Welcome to Steedos",
+    "body": [],
+    "regions": [
+        "body"
+    ],
+    "data": {
+        "initialValues": {},
+        "appId": "builder",
+        "title": ""
+    },
+    "id": "u:475eff2b004a",
+    "asideResizor": false,
+    "editorState": "default",
+    "pullRefresh": {
+        "disabled": true
+    }
+}

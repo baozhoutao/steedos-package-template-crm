@@ -1,0 +1,9 @@
+name: fzlo54
+amis:
+  id: 'u:4754e0519362'
+group: 联系人基本信息
+is_wide: true
+label: 联系人详情
+rows: 3
+sort_no: 500
+type: textarea

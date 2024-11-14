@@ -1,0 +1,10 @@
+name: t_70c771
+desktop: true
+icon: home
+is_new_window: false
+is_use_iframe: true
+label: 首页
+mobile: true
+permissions: []
+type: url
+url: /analytics/amis/dashboard/67344076f1b9cc0621f8b33c

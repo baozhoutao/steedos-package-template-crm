@@ -1,0 +1,7 @@
+name: f5m70z
+amis:
+  id: 'u:ca8ec3fed8ee'
+group: 财务信息
+label: 银行账户
+sort_no: 1900
+type: text

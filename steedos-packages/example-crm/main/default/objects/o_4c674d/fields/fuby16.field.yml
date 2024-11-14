@@ -1,0 +1,13 @@
+name: fuby16
+amis:
+  id: 'u:5e4763409624'
+group: 负责人信息
+label: 线索状态
+options:
+  - label: 未转化
+    value: 未转化
+  - label: 已转化
+    value: 已转化
+readonly: true
+sort_no: 1100
+type: select

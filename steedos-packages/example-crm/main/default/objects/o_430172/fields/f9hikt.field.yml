@@ -1,0 +1,7 @@
+name: f9hikt
+amis:
+  id: 'u:7fb0240b4b75'
+group: 商机基本信息
+label: 报备时间
+sort_no: 800
+type: datetime

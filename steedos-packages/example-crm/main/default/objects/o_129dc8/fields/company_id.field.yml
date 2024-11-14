@@ -1,0 +1,14 @@
+name: company_id
+amis:
+  id: 'u:373202e272f2'
+description: ''
+enable_thousands: true
+group: 产品明细信息
+index: true
+inlineHelpText: ''
+label: 主分部
+reference_to: company
+sort_no: 750
+sortable: true
+type: lookup
+visible_on: '{{false}}'

@@ -1,0 +1,8 @@
+name: fkv76b
+amis:
+  id: 'u:2bef53483024'
+group: 线索基本信息
+label: 手机号
+required: true
+sort_no: 100
+type: text

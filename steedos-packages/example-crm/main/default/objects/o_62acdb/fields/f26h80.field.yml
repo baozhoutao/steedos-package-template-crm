@@ -1,0 +1,7 @@
+name: f26h80
+amis:
+  id: 'u:48f3bb0fff2c'
+group: 客户信息
+label: 领取时间
+sort_no: 1350
+type: datetime

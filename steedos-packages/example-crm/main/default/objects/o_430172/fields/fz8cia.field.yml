@@ -1,0 +1,9 @@
+name: fz8cia
+amis: {}
+data_type: text
+formula: '${fk7o42.name}'
+formula_blank_value: blanks
+group: 客户信息
+label: 客户名称
+sort_no: 100
+type: formula

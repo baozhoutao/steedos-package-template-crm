@@ -1,0 +1,10 @@
+name: f1pufc
+amis:
+  id: 'u:aea99a73c0b0'
+depend_on: []
+group: 产品明细信息
+label: 产品类型
+reference_to: o_602dc6
+reference_to_field: ''
+sort_no: 150
+type: lookup

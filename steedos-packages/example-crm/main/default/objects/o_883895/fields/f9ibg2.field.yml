@@ -1,0 +1,11 @@
+name: f9ibg2
+amis:
+  id: 'u:011d2a1b471f'
+description: ''
+group: 通用
+label: 跟进主体
+reference_to:
+  - o_62acdb
+  - o_d62ba6
+sort_no: 100
+type: lookup

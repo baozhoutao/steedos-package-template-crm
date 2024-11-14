@@ -1,0 +1,9 @@
+name: f2zwnk
+amis:
+  id: 'u:52a9bd202534'
+group: 通用
+label: 预计产生线索数
+precision: 18
+scale: 2
+sort_no: 400
+type: number

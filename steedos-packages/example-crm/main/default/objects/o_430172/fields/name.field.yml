@@ -1,0 +1,13 @@
+name: name
+amis:
+  id: 'u:f519657e523b'
+filterable: true
+formula: '${fz8cia} & "-商机-" & {0000}'
+group: 商机基本信息
+index: true
+label: 商机名称
+readonly: true
+required: true
+searchable: true
+sort_no: 350
+type: autonumber
